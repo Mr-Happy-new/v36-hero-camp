@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="UTF-8" />
+  <title>Café</title>
+</head>
+<body>
+  <header>
+    <h1>Café Bryggan</h1>
+    <p>Kaffe och bullar vid ån</p>
+  </header>
+  <header>
+    <h2>Dagens lunch</h2>
+    <p>Soppa + bröd — 95 kr</div>
+    <div>Mer info</div>
+    </main>
+  <section>
+    <footer>Öppet mån–fre 08–16</div>
+    <footer>Instagram</div>
+  </div>
+</body>
+</html>
