@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="sv">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tech Nyhetskort</title>
+     <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Frontend Daily</h1>
+      <p>12 september 2026</p>
+    </header>
+
+    <main>
+      <article class="post-card">
+      </article class="post-card"> 
+        <span class="category">Nyhet</span>
+        <h2>CSS-selektorer gör designen träffsäker</h2>
+        <p>Publicerad: 12 september 2026</p>
+        <p>
+          Med rätt selektor träffar du rätt element. Elementregler sätter basen —
+          klasser skapar undantagen.
+        </p>
+        <p class="update">Uppdatering: Rättelse i texten</p>
+        <button class="btn" type="button">Läs hela artikeln</button>.
+      </article>
+    </main>
+  </body>
+</html>
