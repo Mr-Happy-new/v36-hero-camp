@@ -1,5 +1,22 @@
 .hero {
   background-color: #0f3d3e;
   padding: 3rem 1.5rem;
+  color: #ffffff;
+  font-family: sans-serif;
 }
-
+.hero h1 {
+  color: #ffffff;
+  font-family: sans-serif;
+}
+.hero .datum {
+  color: #ffffff;
+  font-family: sans-serif;
+}
+.hero .plats {
+  color: #ffffff;
+  font-family: sans-serif;
+}
+.hero .tagline {
+  color: #ffffff;
+  font-family: sans-serif;
+}
